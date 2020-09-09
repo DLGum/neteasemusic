@@ -1,11 +1,12 @@
 
 # 网抑云破解
 
+## 仅聚合一下项目地址。感谢之情留给各位作者就够。
+
 
 # 一:版权灰色可播放，会员歌曲可播放（标准音质）
 
-## 1：UnblockNeteaseMusic
-## 仅聚合一下项目地址。感谢之情留给各位作者就够。
+## UnblockNeteaseMusic等
 
 ### （1）安卓xposed
 https://github.com/nining377/UnblockMusicPro_Xposed
@@ -32,6 +33,8 @@ https://github.com/nondanee/UnblockNeteaseMusic
 这里贴两个项目。自己尝试。
 https://github.com/maxlicheng/luci-app-unblockmusic
 https://github.com/project-openwrt/luci-app-unblockneteasemusic/releases
+
+
 
 # 二：黑椒SQ，破灰色
 目前仅发现安卓大喇叭。
