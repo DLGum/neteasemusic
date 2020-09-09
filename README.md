@@ -20,7 +20,7 @@ https://github.com/Flysky12138/UnblockNeteaseMusic-Android
 
 ### （3）安卓magisk
 
-作者活跃于酷安。ID依然的爱。请多踢他屁股让他更新。
+作者活跃于酷安。ID依然的爱。请多关注他然后踢他屁股让他更新。（狗头）
 
 https://github.com/E7KMbb/UnblockNeteaseMusic_for_Magisk
 
