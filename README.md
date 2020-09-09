@@ -40,18 +40,22 @@ https://github.com/E7KMbb/UnblockNeteaseMusic_for_Magisk
 
 https://github.com/nondanee/UnblockNeteaseMusic
 
-教程自查。用法简单。
+用法简单，自查。隐藏cmd窗口和开机自启教程贴一个https://wwa.lanzous.com/i47fYghd0ab
 
-隐藏cmd窗口和开机自启教程贴一个https://wwa.lanzous.com/i47fYghd0ab
+一般不推荐别人教程里公布的在线版。想用建议自建。项目里有docker搭建方法。
 
-其他差不多的项目有不少。放一个。
+其他差不多的项目有不少。比如。
 
 https://github.com/meng-chuan/Unlock-netease-cloud-music
 
 
 #### （6）全平台
 
-你需要个性能足够好的路由并且会用插件。软路由就再好不过。
+##### ①你需要服务器。
+
+利用https://github.com/nondanee/UnblockNeteaseMusic项目的搭建命令搭建好，用法再往下看。
+
+##### ②你需要个性能足够好的路由并且会用插件。软路由就再好不过。
 
 这里不展开。展开要没完。具体教程自己查。建议逛恩山论坛。很多自带ub的固件。
 
