@@ -40,7 +40,7 @@ https://github.com/E7KMbb/UnblockNeteaseMusic_for_Magisk
 
 https://github.com/nondanee/UnblockNeteaseMusic
 
-用法简单，自查。隐藏cmd窗口和开机自启教程贴一个https://wwa.lanzous.com/i47fYghd0ab
+用法简单，自查。隐藏cmd窗口和开机自启教程贴一个https://wwa.lanzous.com/b0dvp686f 密码:f52p
 
 一般不推荐别人教程里公布的在线版。想用建议自建。项目里有docker搭建方法。
 
