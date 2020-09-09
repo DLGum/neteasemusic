@@ -38,20 +38,14 @@ https://github.com/E7KMbb/UnblockNeteaseMusic_for_Magisk
 
 #### （5）windows
 
-推荐项目
-
-https://github.com/meng-chuan/Unlock-netease-cloud-music
-
-点进去有图文教程。推荐方法一二不推荐三。不解释。
-
-方法一做完后，如何隐藏cmd窗口？如何开机自启？
-
-下载教程https://wwa.lanzous.com/i47fYghd0ab
-
-其他差不多的项目有不少。这里贴一个。
-
 https://github.com/nondanee/UnblockNeteaseMusic
 
+隐藏cmd窗口和开机自启教程有点时效性。
+
+这里贴一个新鲜的https://wwa.lanzous.com/i47fYghd0ab
+
+其他差不多的项目有不少。放一个。自查。
+https://github.com/meng-chuan/Unlock-netease-cloud-music
 
 
 #### （6）全平台
@@ -82,6 +76,9 @@ https://github.com/project-openwrt/luci-app-unblockneteasemusic/releases
 黑椒与服务器都要¥开通。不免费。2软妹币一人一年。就零头。
 
 目的不是赚钱。仅为丰富群员。只收少量群友就不再收。
+
+写这个起因也是因为想拉点群友。酷安各种消失。只能如此骗人了。
+
 （此行为已经获得作者大大的同意。狗头保命。）
 
 欢迎py哈QQ群529234647个人联系通过酷安。
