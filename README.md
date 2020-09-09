@@ -26,9 +26,14 @@ https://github.com/E7KMbb/UnblockNeteaseMusic_for_Magisk
 
 ### （4）任何安卓
 
-代理实现。不能与梯子和vpn类广告屏蔽共用。
+#### ①Easy163  代理实现。不能与梯子和vpn类广告屏蔽共用。
 
 https://github.com/ndroi/easy163
+
+#### ②太极，加安卓xposed那个模块实现
+
+太极下载https://www.coolapk.com/apk/me.weishu.exp
+
 
 
 ### （5）windows
@@ -64,15 +69,16 @@ https://github.com/project-openwrt/luci-app-unblockneteasemusic/releases
 
 # 二：黑椒SQ，破灰色
 
-目前仅发现安卓大喇叭。
-但大喇叭原作者已经闭群。
+目前仅发现安卓大喇叭。但大喇叭原作者已经闭群。
+
 这里我根据大喇叭作者给的教程自建一个。
-黑椒与服务器都要¥开通。不免费。
-2软妹币一人一年。就零头。
+
+黑椒与服务器都要¥开通。不免费。2软妹币一人一年。就零头。
+
 目的不是赚钱。仅为丰富群员。只收少量群友就不再收。
-（此行为已经获得作者大大同意。狗头保命。）
-欢迎py。
-QQ群529234647个人QQ825973084
+（此行为已经获得作者大大的同意。狗头保命。）
+
+欢迎py哈QQ群529234647个人QQ825973084
 
 
 
