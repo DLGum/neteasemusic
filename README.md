@@ -40,9 +40,9 @@ https://github.com/E7KMbb/UnblockNeteaseMusic_for_Magisk
 
 https://github.com/nondanee/UnblockNeteaseMusic
 
-教程自查。隐藏cmd窗口和开机自启教程有点时效性。
+教程自查。用法简单。
 
-这里贴一个新鲜的https://wwa.lanzous.com/i47fYghd0ab
+隐藏cmd窗口和开机自启教程贴一个https://wwa.lanzous.com/i47fYghd0ab
 
 其他差不多的项目有不少。放一个。
 
