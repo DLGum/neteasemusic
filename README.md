@@ -4,7 +4,7 @@
 ## 仅聚合一下项目地址。感谢之情留给各位作者就够。
 
 
-# 一:点量无版权灰色可播放，会员歌曲可播放（标准音质）
+## 一:点亮无版权灰色可播放，会员歌曲可播放（标准音质）
 
 
 ## UnblockNeteaseMusic等
@@ -79,7 +79,6 @@ https://github.com/project-openwrt/luci-app-unblockneteasemusic/releases
 （此行为已经获得作者大大的同意。狗头保命。）
 
 欢迎py哈QQ群529234647个人QQ825973084
-
 
 
 
