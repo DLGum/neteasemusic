@@ -84,6 +84,6 @@ https://github.com/project-openwrt/luci-app-unblockneteasemusic/releases
 目的不是赚钱。仅为丰富群员。只收少量群友就不再收。
 （此行为已经获得作者大大的同意。狗头保命。）
 
-欢迎py哈QQ群529234647个人QQ825973084
+欢迎py哈QQ群529234647个人联系通过酷安。
 
 
