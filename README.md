@@ -1,42 +1,42 @@
 
 # 网抑云破解
 
-## 仅聚合一下项目地址。感谢之情留给各位作者就够。
+### 仅聚合一下项目地址。感谢之情留给各位作者就够。
 
 
 ## 一:点亮无版权灰色可播放，会员歌曲可播放（标准音质）
 
 
-## UnblockNeteaseMusic等
+### UnblockNeteaseMusic等
 
 
-### （1）安卓xposed
+#### （1）安卓xposed
 
 https://github.com/nining377/UnblockMusicPro_Xposed
 
-### （2）安卓root
+#### （2）安卓root
 
 https://github.com/Flysky12138/UnblockNeteaseMusic-Android
 
-### （3）安卓magisk
+#### （3）安卓magisk
 
 作者活跃于酷安。ID依然的爱。请多关注他然后踢他屁股让他更新。（狗头）
 
 https://github.com/E7KMbb/UnblockNeteaseMusic_for_Magisk
 
-### （4）任何安卓
+#### （4）任何安卓
 
-#### ①Easy163  代理实现。不能与梯子和vpn类广告屏蔽共用。
+##### ①Easy163 无脑一件生效炒鸡方便。代理实现。不能与梯子和vpn类广告屏蔽共用。
 
 https://github.com/ndroi/easy163
 
-#### ②太极，加安卓xposed那个模块实现
+##### ②太极，加安卓xposed那个模块实现
 
 太极下载https://www.coolapk.com/apk/me.weishu.exp
 
 
 
-### （5）windows
+#### （5）windows
 
 https://github.com/meng-chuan/Unlock-netease-cloud-music
 
@@ -52,7 +52,7 @@ https://github.com/nondanee/UnblockNeteaseMusic
 
 
 
-### （6）全平台
+#### （6）全平台
 
 你需要个性能足够好的路由并且会用插件。
 
@@ -67,7 +67,7 @@ https://github.com/project-openwrt/luci-app-unblockneteasemusic/releases
 
 
 
-# 二：黑椒SQ，破灰
+## 二：黑椒SQ，破灰
 
 目前仅发现安卓大喇叭。但大喇叭原作者已经闭群。
 
