@@ -53,7 +53,9 @@ https://github.com/meng-chuan/Unlock-netease-cloud-music
 
 ##### ①你需要服务器。
 
-利用https://github.com/nondanee/UnblockNeteaseMusic项目的搭建命令搭建好，用法再往下看。
+根据项目https://github.com/nondanee/UnblockNeteaseMusic 的教程安装使用。
+
+更详细的教程拉一个https://merlinblog.xyz/wiki/neteasemusic.html
 
 ##### ②你需要个性能足够好的路由并且会用插件。软路由就再好不过。
 
