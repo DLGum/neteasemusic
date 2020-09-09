@@ -88,6 +88,6 @@ https://github.com/project-openwrt/luci-app-unblockneteasemusic/releases
 
 （此行为已经获得作者大大的同意。狗头保命。）
 
-欢迎py哈QQ群529234647个人联系通过酷安。
+欢迎py哈QQ群529234647个人联系通过酷安或者QQ975614814。
 
 
