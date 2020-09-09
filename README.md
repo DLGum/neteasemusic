@@ -4,7 +4,7 @@
 ## 仅聚合一下项目地址。感谢之情留给各位作者就够。
 
 
-# 一:版权灰色可播放，会员歌曲可播放（标准音质）
+# 一:点量无版权灰色可播放，会员歌曲可播放（标准音质）
 
 
 ## UnblockNeteaseMusic等
@@ -67,7 +67,7 @@ https://github.com/project-openwrt/luci-app-unblockneteasemusic/releases
 
 
 
-# 二：黑椒SQ，破灰色
+# 二：黑椒SQ，破灰
 
 目前仅发现安卓大喇叭。但大喇叭原作者已经闭群。
 
