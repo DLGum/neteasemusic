@@ -6,7 +6,7 @@
 ## 一:点亮无版权灰色可播放，会员歌曲可播放（标准音质）
 
 ### 一般是UnblockNeteaseMusic以及衍生项目
-
+```
 #### （1）任何安卓
 
 ##### ①Easy163 无脑一键生效炒鸡方便。代理实现。不能与梯子和vpn类广告屏蔽共用。
@@ -32,10 +32,10 @@ https://github.com/Flysky12138/UnblockNeteaseMusic-Android
 作者活跃于酷安。ID依然的爱。请多关注他然后踢他屁股。（狗头）
 
 https://github.com/E7KMbb/UnblockNeteaseMusic_for_Magisk
+```
 
 
-
-
+```
 #### （5）windows
 
 https://github.com/nondanee/UnblockNeteaseMusic
@@ -47,8 +47,8 @@ https://github.com/nondanee/UnblockNeteaseMusic
 其他差不多的项目有不少。比如。
 
 https://github.com/meng-chuan/Unlock-netease-cloud-music
-
-
+```
+```
 #### （6）全平台
 
 ##### ①你需要服务器。
@@ -71,11 +71,11 @@ https://github.com/project-openwrt/luci-app-unblockneteasemusic/releases
 
 搜索关键词 luci app openwrt unblockmusic unblockneteasemusic 网易云 灰色 解锁 破解 等等。
 
-
+```
 
 
 ## 二：黑椒SQ，破灰
-
+```
 目前仅发现安卓大喇叭。但大喇叭原作者已经闭群。
 
 这里我根据大喇叭作者给的教程自建一个。
@@ -89,5 +89,5 @@ https://github.com/project-openwrt/luci-app-unblockneteasemusic/releases
 （此行为已经获得作者大大的同意。狗头保命。）
 
 欢迎py哈QQ群529234647个人联系通过酷安或者QQ975614814。
-
+```
 
