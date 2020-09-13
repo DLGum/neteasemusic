@@ -7,36 +7,38 @@
 
 ### 一般是UnblockNeteaseMusic以及衍生项目
 ```
-#### （1）任何安卓
+（1）任何安卓
 
-##### ①Easy163 无脑一键生效炒鸡方便。代理实现。不能与梯子和vpn类广告屏蔽共用。
+①Easy163 无脑一键生效炒鸡方便。代理实现。不能与梯子和vpn类广告屏蔽共用。
 
 https://github.com/ndroi/easy163
 
-##### ②太极，加安卓xposed那个模块实现
+②太极，加安卓xposed那个模块实现
 
 太极下载https://www.coolapk.com/apk/me.weishu.exp
 
 以前的virtualxposed不更新了。还有些衍生项目还更新。有兴趣自己研究。
-
-#### （2）安卓xposed（太极阳或者edxp）
+```
+```
+（2）安卓xposed（太极阳或者edxp）
 
 https://github.com/nining377/UnblockMusicPro_Xposed
-
-#### （3）安卓root
+```
+```
+（3）安卓root
 
 https://github.com/Flysky12138/UnblockNeteaseMusic-Android
-
-#### （4）安卓magisk
+```
+```
+（4）安卓magisk
 
 作者活跃于酷安。ID依然的爱。请多关注他然后踢他屁股。（狗头）
 
 https://github.com/E7KMbb/UnblockNeteaseMusic_for_Magisk
 ```
 
-
 ```
-#### （5）windows
+（5）windows
 
 https://github.com/nondanee/UnblockNeteaseMusic
 
@@ -49,15 +51,15 @@ https://github.com/nondanee/UnblockNeteaseMusic
 https://github.com/meng-chuan/Unlock-netease-cloud-music
 ```
 ```
-#### （6）全平台
+（6）全平台
 
-##### ①你需要服务器。
+①你需要服务器。
 
 根据项目https://github.com/nondanee/UnblockNeteaseMusic 的教程安装使用。
 
 更详细的教程拉一个https://merlinblog.xyz/wiki/neteasemusic.html
 
-##### ②你需要个性能足够好的路由并且会用插件。软路由就再好不过。
+②你需要个性能足够好的路由并且会用插件。软路由就再好不过。
 
 这里不展开。展开要没完。具体教程自己查。建议逛恩山论坛。很多自带ub的固件。
 
